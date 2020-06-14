@@ -2,7 +2,7 @@
 ![demo](https://raw.github.com/wiki/nakamura0907/react-randomchat/images/demo.gif)
 
 ### Link
-https://salty-beach-69886.herokuapp.com/public/
+https://react-chat-nakamura.herokuapp.com/public/
 
 ### 拡張案
 - ランダムマッチング1VS1

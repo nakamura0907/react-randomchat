@@ -6,8 +6,8 @@ import socketio from "socket.io-client";
  * heroku(deploy) -> process.env.PORT
  */
 
-// const socket = socketio.connect("http://localhost:3001");
-const socket = socketio.connect(process.env.PORT);
+const socket = socketio.connect("http://localhost:3001");
+// const socket = socketio.connect(process.env.PORT);
 
 import {time} from "./util/dateHelper";
 import {
